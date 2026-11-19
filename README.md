@@ -26,7 +26,7 @@ A continuación, se describen las carpetas y programas principales incluidos en 
 
 ---
 
-## 📊 Resultados Principales
+## Resultados Principales
 
 Al probar los modelos en los 125 municipios de Jalisco, los programas más estables y precisos fueron:
 
@@ -40,7 +40,7 @@ Los resultados muestran que la **mala calidad y falta de espacio en la vivienda*
 
 ---
 
-## 🛠️ Herramientas e Infraestructura
+## Herramientas e Infraestructura
 
 * **Lenguaje:** Python 3.10 o superior.
 * **Librerías principales:** `pandas`, `numpy`, `scipy`, `statsmodels`, `scikit-learn` y `matplotlib` (listadas en `requirements.txt`).
@@ -49,7 +49,7 @@ Los resultados muestran que la **mala calidad y falta de espacio en la vivienda*
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+## Cómo Ejecutar el Proyecto
 
 1. **Clonar el repositorio y entrar a la carpeta:**
    ```powershell
