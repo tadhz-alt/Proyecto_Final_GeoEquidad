@@ -1,0 +1,4 @@
+Modelo,R2_CV_Promedio,MAE_CV_Promedio
+1. Lineal Clásica (Base),0.2509,5.2497
+2. Huber Robusta (Anti-Outliers),0.3118,4.9626
+3. Gradient Boosting (No Lineal),0.1384,5.5135
